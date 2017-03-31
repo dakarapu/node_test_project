@@ -10,7 +10,7 @@ emitter.on('greet',function() {
 
 emitter.on('greet',function() {
 
-	console.log("Hello, this is 2");
+	console.log("Hello, this is 2222");
 });
 
 emitter.on('greet',function() {
